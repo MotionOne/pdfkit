@@ -51,6 +51,7 @@
     "crypto-js": "^4.0.0",
     "fontkit": "^1.8.1",
     "linebreak": "^1.0.2",
+    "pdf-lib": "^1.17.1",
     "png-js": "^1.0.0"
   },
   "scripts": {
@@ -78,6 +79,9 @@
   "engine": [
     "node >= v6.0.0"
   ],
+  "volta": {
+    "node": "20.19.4"
+  },
   "jest": {
     "testEnvironment": "jest-environment-jsdom",
     "testPathIgnorePatterns": [
