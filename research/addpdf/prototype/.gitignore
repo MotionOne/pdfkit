@@ -1,0 +1,6 @@
+# 하네스가 생성하는 산출물
+*.pdf
+*.pdf.map.json
+batch*.json
+progress*.log
+corpus.txt
